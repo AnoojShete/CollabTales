@@ -30,8 +30,9 @@ A web platform that allows individuals to create stories and collaboratively add
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/story-collaborator-platform.git
+   git clone https://github.com/AnoojShete/story-collab.git
    ```
+   
 2. cd story-collaborator-platform
 3. Place the project files in the appropriate folder of your XAMPP's htdocs directory (e.g., C:\xampp\htdocs\story-collaborator-platform).
 4. Open XAMPP and start the Apache and MySQL servers.
